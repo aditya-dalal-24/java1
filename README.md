@@ -1,1 +1,2 @@
 # java1
+This is my first repository of java. I learnt this programming language for the first time when I was 15 years old. Currently I am a bit older than that and I will be learning more java from now. There are perhaps more such repositories to come in the near future. Hopefully, I make enough progress in the computer science domain for this repository to be marked as the beginning of something big. Today is 18/06/2025. I'll see ya!!!
