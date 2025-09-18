@@ -1,2 +1,3 @@
-# java1
+# DSAjava
 This is my first repository of java. I learnt this programming language for the first time when I was 15 years old. Currently I am a bit older than that and I will be learning more java from now. There are perhaps more such repositories to come in the near future. Hopefully, I make enough progress in the computer science domain for this repository to be marked as the beginning of something big. Today is 18/06/2025. I'll see ya!!!
+Today is 18/09/2025. I have started learning data structures and algorithms in java. Today I have pushed the codes till sorting into this repo and am looking forwards to push further data structure codes in the upcoming days.
